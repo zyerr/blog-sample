@@ -20,7 +20,7 @@ Generate a new Docusaurus site using the **classic template**:
 ```shell
 npx @docusaurus/init@latest init my-website classic
 ```
-
+c
 ## Start your site
 
 Run the development server:
