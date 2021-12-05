@@ -1,5 +1,5 @@
 ---
-title: How does Predpol affect our mind?(2)
+title: What do you think?
 sidebar_position: 5
 ---
 
