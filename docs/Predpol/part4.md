@@ -3,8 +3,7 @@ title: What do you think?
 sidebar_position: 5
 ---
 
-:::tip
-**Opinions**
+:::**Opinions**
 
 - PredPol predictions target POC neighborhoods, replicating entrenched racial disparities in policing.  A pleasure to work on this killer story! 
 ——Annie Gilbertson, Journalist+Audio Producer+Editor.
@@ -20,9 +19,9 @@ sidebar_position: 5
 :::
 
 
-:::tip
+:::**Question:** 
 
-**Question:** Should we give more consideration to either humanitarian and racial bias, or the safety of the majority? How do you make these trade-offs? And how would you describe PredPol with keywords?
+Should we give more consideration to either humanitarian and racial bias, or the safety of the majority? How do you make these trade-offs? And how would you describe PredPol with keywords?
 
 #### Vote your three keywords to describe PredPol:
 Crime prediction and prevention
