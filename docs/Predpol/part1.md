@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 :::info
 **Group Members:**
-- Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun
+**Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun**
 :::
 
 
@@ -12,5 +12,5 @@ sidebar_position: 1
 
 - PredPol uses a machine-learning algorithm to calculate predictions. Historical event datasets are used to train the algorithm for each new city (ideally 2 to 5 years of data). PredPol then updates the algorithm each day with new events as they are received from the department.3 data points – crime type, crime location and crime date/time- are used in prediction calculation(“Predpol.com”,2021).
 
-![img](https://lh6.googleusercontent.com/RJt0sDxt33t9CLdu_miovj2MK42bimjSea3JSnKK4pGOlOYn8Yb0dkA3-goaPitwAu-TAOCtUgmgkUz16bxi0zCamnO7IZwfRwYYturQrq6FwxHI-Jy7ZCdwluId4T4YdP7NIS28)
-  	
+![img](https://lh6.googleusercontent.com/RJt0sDxt33t9CLdu_miovj2MK42bimjSea3JSnKK4pGOlOYn8Yb0dkA3-goaPitwAu-TAOCtUgmgkUz16bxi0zCamnO7IZwfRwYYturQrq6FwxHI-Jy7ZCdwluId4T4YdP7NIS28#pic_center)
+<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=60% />
