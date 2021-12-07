@@ -1,6 +1,6 @@
 ---
 title: How does Predpol affect our society?
-sidebar_position: 2
+sidebar_position: 3
 ---
 The first positive effect Predpol generates is crime prevention, defined as efforts to restrict crime from occurring. PredPol is 10 times more likely to predict the location of crime than random patrolling and more than twice as likely to predict crime as boxes produced using intelligence led techniques. (Aguirre & Muggah, 2019). Then, Emmy said Predpol can help strengthen police and community ties (2021). In addition to crime reduction results, most of our deployments notice an improvement in their community policing efforts.
 

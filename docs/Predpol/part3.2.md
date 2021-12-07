@@ -1,6 +1,6 @@
 ---
 title: How does Predpol affect our mind?(Cont.)
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 ### The predictive policing system affects the public's attitude to policing. 

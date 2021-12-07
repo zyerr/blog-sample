@@ -1,6 +1,6 @@
 ---
 title: How does Predpol affect our mind?
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 We may wonder whether there’s an impartial algorithm that can guide us into a more transcendent society, within which we can break free from our cursed history of never-ending distrust and oppression? In the case of PredPol case, the answer is pessimistic: people find that the algorithmic governance approaches such as PredPol are increasingly strengthen our original bias in a vicious cycle: the algorithm makes discriminative judgement based on human-biased data, and human executive act with algorithm-biased instruction. Instead of making detached judgement, the algorithm is repeating our mistakes.
