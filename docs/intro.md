@@ -10,4 +10,4 @@ sidebar_position: 1
 
 **Welcome to our homepage!**
 
-**Explore the policing algorithm with us**
+**Explore the policing algorithm with us！**
