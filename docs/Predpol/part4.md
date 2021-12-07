@@ -42,10 +42,10 @@ How would you describe PredPol with keywords?
 - Target Blacks and Latino neighborhoods
 - Worsen racial bias
 
-**link to voting:** https://app.sli.do/event/l6labc3m   
+**Link to vote:** https://app.sli.do/event/l6labc3m   
 (If you have any other keywords related to PredPol, feel free to leave them in the Q&A box!!!)
 
-**result:** https://wall.sli.do/event/l6labc3m?section=eaa04697-e0b0-4597-bbf7-26ccd6eb70c5
+**Result:** https://wall.sli.do/event/l6labc3m?section=eaa04697-e0b0-4597-bbf7-26ccd6eb70c5
 
 
 <!-- <script>
