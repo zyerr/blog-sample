@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 :::info
 **Group Members:**
-Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun
+*Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun*
 :::
 
 ![img](https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd)
