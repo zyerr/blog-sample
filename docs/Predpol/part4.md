@@ -9,7 +9,7 @@ sidebar_position: 6
   width = "800" height = "450" alt=""/>
 </div>
 
-:::note Opinions
+:::tip Opinions
 :::
 
 - PredPol predictions target POC neighborhoods, replicating entrenched racial disparities in policing.  A pleasure to work on this killer story! 
@@ -26,7 +26,7 @@ sidebar_position: 6
 
 
 
-:::note Questions
+:::tip Questions
 
 Should we give more consideration to either humanitarian and racial bias, or the safety of the majority? How do you make these trade-offs? And how would you describe PredPol with keywords?
 
