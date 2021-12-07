@@ -6,11 +6,10 @@ sidebar_position: 6
 <div align='center'>
 <img
   src="https://lh4.googleusercontent.com/Lgq5sCNrc3cqQLAwsSquiNtkFuX6a4TbEHXqiAZwvOiZYOHvM3_8p60D6iG3KTm3oOQGhHlN3ztKlCtBTTrPdHZpzuMLlSbuJTlu-vob1hJYFIPPKqmnQxqcThPh-1Z-wk14lp4C" 
-  width = "600" height = "350" alt=""/>
+  width = "800" height = "450" alt=""/>
 </div>
 
-:::tip
-**Opinions**
+:::note Opinions
 :::
 
 - PredPol predictions target POC neighborhoods, replicating entrenched racial disparities in policing.  A pleasure to work on this killer story! 
@@ -27,8 +26,7 @@ sidebar_position: 6
 
 
 
-:::tip
-**Question:** 
+:::note Question
 
 Should we give more consideration to either humanitarian and racial bias, or the safety of the majority? How do you make these trade-offs? And how would you describe PredPol with keywords?
 
