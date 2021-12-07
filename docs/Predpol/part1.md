@@ -23,7 +23,7 @@ sidebar_position: 1
 <div align='center'>
 <img
  src="https://lh6.googleusercontent.com/RJt0sDxt33t9CLdu_miovj2MK42bimjSea3JSnKK4pGOlOYn8Yb0dkA3-goaPitwAu-TAOCtUgmgkUz16bxi0zCamnO7IZwfRwYYturQrq6FwxHI-Jy7ZCdwluId4T4YdP7NIS28"
-  width = "500" height = "500" alt=""/>
+  width = "500" height = "400" alt=""/>
 </div>
 
 
