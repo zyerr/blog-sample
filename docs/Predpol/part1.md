@@ -9,7 +9,7 @@ sidebar_position: 1
 <div align='center'>
 <img
   src="https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd" 
-  width = "500" height = "500" alt=""/>
+  width = "800" height = "450" alt=""/>
 </div>
 
 <!-- ![img](https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd) -->
@@ -20,7 +20,11 @@ sidebar_position: 1
 
 - PredPol uses a machine-learning algorithm to calculate predictions. Historical event datasets are used to train the algorithm for each new city (ideally 2 to 5 years of data). PredPol then updates the algorithm each day with new events as they are received from the department.3 data points – crime type, crime location and crime date/time- are used in prediction calculation(“Predpol.com”,2021).
 
-![img](https://lh6.googleusercontent.com/RJt0sDxt33t9CLdu_miovj2MK42bimjSea3JSnKK4pGOlOYn8Yb0dkA3-goaPitwAu-TAOCtUgmgkUz16bxi0zCamnO7IZwfRwYYturQrq6FwxHI-Jy7ZCdwluId4T4YdP7NIS28)
+<div align='center'>
+<img
+ src="https://lh6.googleusercontent.com/RJt0sDxt33t9CLdu_miovj2MK42bimjSea3JSnKK4pGOlOYn8Yb0dkA3-goaPitwAu-TAOCtUgmgkUz16bxi0zCamnO7IZwfRwYYturQrq6FwxHI-Jy7ZCdwluId4T4YdP7NIS28"
+  width = "500" height = "500" alt=""/>
+</div>
 
 
 ### Reference
