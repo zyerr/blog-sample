@@ -35,8 +35,11 @@ Should we give more consideration to either humanitarian and racial bias, or the
 - Surveillance
 - Target Blacks and Latino neighborhoods
 - Worsen racial bias
-- Other - Please comment it below
 
+**link to voting:** https://app.sli.do/event/l6labc3m   
+(If you have any other keywords linking with the PredPol, feel free to leave them in the Q&A box!!!)
+
+**result** https://wall.sli.do/event/l6labc3m?section=eaa04697-e0b0-4597-bbf7-26ccd6eb70c5
 
 
 <!-- <script>
