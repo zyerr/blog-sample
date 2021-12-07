@@ -5,6 +5,7 @@ sidebar_position: 5
 
 :::tip
 **Opinions**
+:::
 
 - PredPol predictions target POC neighborhoods, replicating entrenched racial disparities in policing.  A pleasure to work on this killer story! 
 ——Annie Gilbertson, Journalist+Audio Producer+Editor.
@@ -17,7 +18,7 @@ sidebar_position: 5
 
 - The ultimate issue is what did officer do prior to PredPol and what are they doing now? My best guess is that bias is likely reduced with some form of data-driven policing compared to letting them decide themselves, but implementation matters. —— Dennis Mares, Criminal Justice Professor at SIUE
 
-:::
+
 
 
 :::tip
@@ -25,16 +26,18 @@ sidebar_position: 5
 
 Should we give more consideration to either humanitarian and racial bias, or the safety of the majority? How do you make these trade-offs? And how would you describe PredPol with keywords?
 
-#### Vote your three keywords to describe PredPol:
-Crime prediction and prevention
-Improve community safe
-Unbiased police
-Surveillance
-Target Blacks and Latino neighborhoods
-Worsen racial bias
-Other - Please comment it below
-
 :::
+
+#### Vote your three keywords to describe PredPol:
+- Crime prediction and prevention
+- Improve community safe
+- Unbiased police
+- Surveillance
+- Target Blacks and Latino neighborhoods
+- Worsen racial bias
+- Other - Please comment it below
+
+
 
 <!-- <script>
 import test from "./test.css"
