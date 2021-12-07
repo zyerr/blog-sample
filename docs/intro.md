@@ -10,4 +10,4 @@ sidebar_position: 1
  <br/><center><big><b>Group Members: Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun</b></big></center>  
 
  <br/><center><big><b>Welcome to our homepage!</b></big></center>
-<center><big><b>Explore the policing algorithm with us</b></big></center>
+<center><big><b>Explore the policing algorithm with us！</b></big></center>
