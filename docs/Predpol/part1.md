@@ -6,8 +6,13 @@ sidebar_position: 1
 **Group Members:**
 *Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun*
 :::
+import img1 from "https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd"
+<div align='center'>
+<img
+  src={img1} width = "500" height = "500" alt=""/>
+</div>
 
-![img](https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd)
+<!-- ![img](https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd) -->
 
 - Predictive policing: Forecasting crime with big data. It is a way to use computer systems to analyze large sets of data, including historical crime data, to predict and help prevent potential future crimes.As of 2020, PredPol's algorithm is the most commonly used predictive policing algorithm in the U.S. It shows where the computer predicts crimes will happen in the future(“Wikipedia”,2021).
 
