@@ -1,5 +1,5 @@
 ---
-title: What is Predpol?
+title: What is PredPol?
 sidebar_position: 2
 ---
 
@@ -15,7 +15,7 @@ sidebar_position: 2
 
 
 
-- PredPol uses a machine-learning algorithm to calculate predictions. Historical event datasets are used to train the algorithm for each new city (ideally 2 to 5 years of data). PredPol then updates the algorithm each day with new events as they are received from the department.3 data points – crime type, crime location and crime date/time- are used in prediction calculation(“Predpol.com”,2021).
+- PredPol uses a machine-learning algorithm to calculate predictions. Historical event datasets are used to train the algorithm for each new city (ideally 2 to 5 years of data). PredPol then updates the algorithm each day with new events as they are received from the department.3 data points – crime type, crime location and crime date/time- are used in prediction calculation(“PredPol.com”,2021).
 
 <div align='center'>
 <img
