@@ -28,8 +28,8 @@ sidebar_position: 6
 
 :::tip Questions
 
-Should we give more consideration to either humanitarian and racial bias, or the safety of the majority?
-How do you make these trade-offs?
+Should we give more consideration to either humanitarian and racial bias, or the safety of the majority?  
+How do you make these trade-offs?  
 How would you describe PredPol with keywords?
 
 :::
