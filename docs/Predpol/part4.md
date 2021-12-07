@@ -3,6 +3,12 @@ title: What do you think?
 sidebar_position: 6
 ---
 
+<div align='center'>
+<img
+  src="https://lh4.googleusercontent.com/Lgq5sCNrc3cqQLAwsSquiNtkFuX6a4TbEHXqiAZwvOiZYOHvM3_8p60D6iG3KTm3oOQGhHlN3ztKlCtBTTrPdHZpzuMLlSbuJTlu-vob1hJYFIPPKqmnQxqcThPh-1Z-wk14lp4C" 
+  width = "600" height = "350" alt=""/>
+</div>
+
 :::tip
 **Opinions**
 :::
