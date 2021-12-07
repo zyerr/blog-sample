@@ -26,7 +26,7 @@ sidebar_position: 6
 
 
 
-:::note Question
+:::note Questions
 
 Should we give more consideration to either humanitarian and racial bias, or the safety of the majority? How do you make these trade-offs? And how would you describe PredPol with keywords?
 
