@@ -1,11 +1,8 @@
 ---
 title: What is Predpol?
-sidebar_position: 1
+sidebar_position: 2
 ---
-:::info
-**Group Members:**
-*Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun*
-:::
+
 <div align='center'>
 <img
   src="https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd" 
