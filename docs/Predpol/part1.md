@@ -20,6 +20,6 @@ Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun
 
 ### Reference
 
-PredPol-Wikipedia. https://en.wikipedia.org/wiki/PredPol 
+PredPol-Wikipedia. https://en.wikipedia.org/wiki/PredPol   
 The official website of PredPol. https://www.predpol.com/
 
