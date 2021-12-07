@@ -10,7 +10,7 @@ Trustworthy. Public view a policing decision is less trustworthy. Lee (2018) fou
 <div align='center'>
 <img
   src="https://lh4.googleusercontent.com/sTSO2mlWlK0es3OryyyMoQLNUlSMOfSGbiL1Si3bCvM39dANUJlNgKVG2B-H1q0eghA8YOkDouGrtMrB0HWvONcVuGayoC6-tQh0Twzvh-ydowT-x1VNKtGTstI9zLYqjh52-kMF" 
-  width = "600" height = "350" alt=""/>
+  width = "600" height = "400" alt=""/>
 </div>
 
 And trustworthiness cannot be established between general public and policing predictive algorithms: first, the public cannot feel a personal connection to the algorithms; and second, nowadays the algorithms are not transparent or comprehensible to the general public. For example, after two years of litigation, the public only got piecemeal production from the NYPD. All of the above make the general public think police decisions are less trustworthy than before. 
