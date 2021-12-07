@@ -1,12 +1,11 @@
 ---
-title: What is Predpol?
 sidebar_position: 1
 ---
 :::info
 **Group Members:**
 Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun
 :::
-
+## What is Predpol?
 
 - Predictive policing: Forecasting crime with big data. It is a way to use computer systems to analyze large sets of data, including historical crime data, to predict and help prevent potential future crimes.As of 2020, PredPol's algorithm is the most commonly used predictive policing algorithm in the U.S. It shows where the computer predicts crimes will happen in the future(“Wikipedia”,2021).
 
