@@ -9,6 +9,8 @@ sidebar_position: 2
   width = "800" height = "450" alt=""/>
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTIVIok4jT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- ![img](https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd) -->
 
 - Predictive policing: Forecasting crime with big data. It is a way to use computer systems to analyze large sets of data, including historical crime data, to predict and help prevent potential future crimes.As of 2020, PredPol's algorithm is the most commonly used predictive policing algorithm in the U.S. It shows where the computer predicts crimes will happen in the future(“Wikipedia”,2021).
