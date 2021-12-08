@@ -9,7 +9,7 @@ The first positive effect PredPol generates is crime prevention, defined as effo
 <div align='center'>
 <img
   src="https://lh5.googleusercontent.com/KDqtruaqmP1ovIwwWb8p20zRPgcdYr2gGfUVsguzbak5JC4C_fqRswXJ8SEotjvf8qvf8fexCsi4NfGxk4k1T1hmXMwZlsPANbARNV95G9XzUoLKR89ZwbOk5GvKasmt-PUuoGdG" 
-  width = "600" height = "350" alt=""/>
+  width = "600" height = "400" alt=""/>
 </div>
 
 However, according to Dinale (2014), It could be argued that PredPol breaches privacy laws in his attempt at exploiting a Big Data of criminal activities and urban patterns. 
@@ -24,7 +24,7 @@ Furthermore, for the reason of “Dirty data” and “Juked stats”, which ref
 <div align='center'>
 <img
   src="https://lh5.googleusercontent.com/7w1kugsvlh4gv0qrCBzP_ezUh_qiX0TXKjjP0k8cLW70QVYAPxgVfKqaI5CL9N9JASX7VrYPXKL9Vmn-0bfTX_9wfKSmrBLVCZIjEjslZptfbzg72VzxkYhvJ80o1ok843Vcu7Of" 
-  width = "600" height = "400" alt=""/>
+  width = "600" height = "350" alt=""/>
 </div>
 
 More seriously, the use of PredPol may profoundly deepen racial discrimination and the split of society. Machine learning-based predictive policing algorithms can learn to discriminate facially on the basis of race because they are exposed to and learn from data derived from the racist realities of the United States criminal justice system-a world in which Black Americans are incarcerated in state prisons at a rate that is 5.1 times the imprisonment of whites, 1 and one of every three Black men born today can expect to go to prison in his lifetime if current trends continue. According to O'Donnell (2019), machine learning-based policing algorithms learn to replicate and exacerbate these patterns by associating race and criminality. At this level, PredPol may deepen social rifts and racial discrimination.							
