@@ -13,7 +13,7 @@ sidebar_position: 6
   src="https://lh4.googleusercontent.com/Lgq5sCNrc3cqQLAwsSquiNtkFuX6a4TbEHXqiAZwvOiZYOHvM3_8p60D6iG3KTm3oOQGhHlN3ztKlCtBTTrPdHZpzuMLlSbuJTlu-vob1hJYFIPPKqmnQxqcThPh-1Z-wk14lp4C" 
   width = "800" height = "450" alt=""/>
 </div> -->
-
+<br/>
 :::tip Opinions
 :::
 
