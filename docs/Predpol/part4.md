@@ -2,12 +2,17 @@
 title: What do you think?
 sidebar_position: 6
 ---
-
 <div align='center'>
+<img
+  src="https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd" 
+  width = "800" height = "450" alt=""/>
+</div>
+
+<!-- <div align='center'>
 <img
   src="https://lh4.googleusercontent.com/Lgq5sCNrc3cqQLAwsSquiNtkFuX6a4TbEHXqiAZwvOiZYOHvM3_8p60D6iG3KTm3oOQGhHlN3ztKlCtBTTrPdHZpzuMLlSbuJTlu-vob1hJYFIPPKqmnQxqcThPh-1Z-wk14lp4C" 
   width = "800" height = "450" alt=""/>
-</div>
+</div> -->
 
 :::tip Opinions
 :::
