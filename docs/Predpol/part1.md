@@ -10,7 +10,7 @@ sidebar_position: 2
 </div> -->
 
 <div align='center'>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/kTIVIok4jT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="400" src="https://www.youtube.com/embed/kTIVIok4jT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <!-- ![img](https://lh4.googleusercontent.com/2tiqjX5QLw6Snuc7RcL1d0j9NDChzfHkjKhAj8mx2tWWuhoJmDYnJLKijucFYu7A9ko6jSbwxtyBzkcExAhKVIH_prV3gVT3UB24999k-9-eQAP-aKWTLGusLzsZ-K9Md1T0elCd) -->
