@@ -9,6 +9,7 @@ sidebar_position: 1
   width = "750" height = "180" alt=""/>
 </div>
 
+ <br/>
 <center><big><b>MSSP 710-002</b></big></center>
 <center><big><b>Democratizing Data? Critical Data Studies in Algorithmic Governance</b></big></center>    
 
