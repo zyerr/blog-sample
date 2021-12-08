@@ -13,7 +13,7 @@ sidebar_position: 1
 <center><big><b>MSSP 710-002</b></big></center>
 <center><big><b>Democratizing Data? Critical Data Studies in Algorithmic Governance</b></big></center>    
 
- <br/><center><big><b>Group Members: Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun</b></big></center>  
+ <br/><center><b>Group Members: Haocheng Hong, Yanzhuo Wang, Yi Zeng, Yue Zhang, Zihan Sun</b></center>  
 
- <br/><center><big><b>Welcome to our homepage!</b></big></center>
-<center><big><b>Explore the policing algorithm with us!</b></big></center>
+ <br/><center><b>Welcome to our homepage!</b></center>
+<center><b>Explore the policing algorithm with us!</b></center>
